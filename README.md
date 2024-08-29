@@ -1,2 +1,2 @@
-# aki-tr
+# aki-tr [DEMO]
 Aki Translator
