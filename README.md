@@ -3,18 +3,15 @@
 
 ---
 
-## ⚠️ <span style="color:#D0021B;">Warning</span>
-
-**<span style="color:#D0021B;">IMPORTANT:</span>**  
-This repository includes an API key within the HTML code for demonstration purposes only. **<span style="color:#D0021B;">Do not use this API key</span>** in your own projects or when distributing this application.
+> [!WARNING]
+> This repository includes an API key within the HTML code for demonstration purposes only. **<span style="color:#D0021B;">Do not use this API key</span>** in your own projects or when distributing this application.
 
 ---
 
-### 🔧 <span style="color:#4A90E2;">What You Should Do</span>
-
-- Obtain your own API key from the [<span style="color:#4A90E2;">Gemini AI service provider</span>](https://ai.google.dev/gemini-api/docs/api-key).
-- Replace the placeholder API key in the HTML file with your own key.
-- Keep your API key secure and **<span style="color:#D0021B;">do not share it publicly</span>** in any repositories or distributions.
+> [!IMPORTANT]
+> - Obtain your own API key from the [<span style="color:#4A90E2;">Gemini AI service provider</span>](https://ai.google.dev/gemini-api/docs/api-key).
+> - Replace the placeholder API key in the HTML file with your own key.
+> - Keep your API key secure and **<span style="color:#D0021B;">do not share it publicly</span>** in any repositories or distributions.
 
 ---
 
