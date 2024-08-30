@@ -45,10 +45,10 @@ chatForm.addEventListener('submit', async (e) => {
                     { category: "HARM_CATEGORY_DANGEROUS_CONTENT", threshold: "BLOCK_NONE" }
                 ],
                 generationConfig: {
-                    temperature: 0.7,
-                    topK: 60,
-                    topP: 0.95,
-                    maxOutputTokens: 12000,
+                    temperature: 0.3,
+                    topK: 10,
+                    topP: 0.50,
+                    maxOutputTokens: 8192,
                 }
             }),
         });
