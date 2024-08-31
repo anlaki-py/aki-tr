@@ -40,7 +40,6 @@
 </div>
 <div id="error-message"></div>
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script src="js/script.js"></script>
 
 </body>
